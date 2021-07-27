@@ -1,10 +1,19 @@
-# 本项目需先使用vue create命令创建vue3.x项目，再将本项目的文件替换原项目文件
+# tabbar
 
-## 编译和热重载：
+## Project setup
+```
+npm install
+```
+
+### compiles and hot-reloads for development
 ```
 npm run serve
 ```
-## 编译并打包：
+
+### Compiles and minifies for production
 ```
 npm run build
 ```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
